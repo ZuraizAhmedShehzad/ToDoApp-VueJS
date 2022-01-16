@@ -1,5 +1,6 @@
 # todo-app
-
+## Description
+This To Do App is a complete CRUD Application implemented using Vue JS. Tasks can be created, read, edited and deleted.
 ## Project setup
 ```
 npm install
